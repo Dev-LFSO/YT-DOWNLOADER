@@ -1,0 +1,4 @@
+pytube
+pillow
+ttkbootstrap
+pyinstaller
